@@ -1,0 +1,26 @@
+footer{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
+.btn{
+    color: white;
+}
+.btn:hover{
+    color: black;
+}
+
+.btn-custom{
+    color: #5833FF;
+    font-size:larger;
+    cursor: pointer;
+    border: none;
+    font-weight:lighter;
+}
+
+.btn-border{
+    border: none;
+}
